@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[jiaogulan shop]]></title>
         <description><![CDATA[jiaogulan shop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jiaogulan-shop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 15:20:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 15:21:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jiaogulan-shop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Colossal]]></title>
+            <description><![CDATA[<article><h1>Colossal</h1><p>Commercial photographer Sam Kaplan 's latest project, transforms sticks of chewing gum into monumental structures, stacking the sticky treat in shapes that imitate architectural forms. Hundreds of pieces of gum criss cross and stand upwards to create pyramids, columns, and arches-held tightly together with support from super glue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f63dd7a08eb117fcc92bfb1c70282c91eac1097.jpg"></article>]]></description>
+            <link>http://www.thisiscolossal.com/</link>
+            <guid isPermaLink="false">8e78998a-9d60-420a-b9e3-6905b57b0f6e</guid>
+            <pubDate>Thu, 04 Aug 2016 15:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
+            <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/tech/nation/the-coolest-tech-at-sxsw-interactive-2016/tech</link>
+            <guid isPermaLink="false">1a613aa0-6478-4a22-b3cc-7207ed67606b</guid>
+            <pubDate>Thu, 04 Aug 2016 15:20:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Ars VR headset showdown-Oculus Rift vs. HTC Vive]]></title>
             <description><![CDATA[<article><h1>The Ars VR headset showdown-Oculus Rift vs. HTC Vive</h1><p>In our original reviews of the Oculus Rift and the HTC Vive, we tried very hard to examine these virtual reality systems on their own merits without constant comparisons to the competition. But no product exists in a vacuum. After years of buildup, we're now faced with two competitive, PC-tethered VR headsets hitting the market right next to each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a473611978ca4931a0d74678d9cd4a6eaafdb8a9.jpg"></article>]]></description>
