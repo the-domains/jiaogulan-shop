@@ -1,0 +1,14 @@
+name: jiaogulan shop
+layout_spectrum: 0.540487375783988
+typography_spectrum: 0.6365609481879115
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.8136023805505265
+  lightness: 0.27011643885191483
+  saturation: 0.626309933456466
+  rhythmicContrast: 0.7029500339431325
